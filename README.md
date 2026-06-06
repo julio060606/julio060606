@@ -15,6 +15,8 @@ Diseño la lógica central para sistemas administrativos, control de inventarios
   </a>
 </p>
 
+<br>
+
 ## 🛠️ **Tecnologías y herramientas con las que trabajo**
 
 <p align="left">
@@ -26,7 +28,7 @@ Diseño la lógica central para sistemas administrativos, control de inventarios
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" title="Angular"/>
   
-  <br>
+
 
   <!-- Backend & Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
@@ -35,7 +37,7 @@ Diseño la lógica central para sistemas administrativos, control de inventarios
   <img src="https://cdn.simpleicons.org/flask/333333" width="45" title="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" title="Spring Boot"/>
   
-  <br>
+
 
   <!-- Bases de Datos y Herramientas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
@@ -44,12 +46,16 @@ Diseño la lógica central para sistemas administrativos, control de inventarios
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
 </p>
 
+<br>
+
 ## 🚀 **Mi experiencia y en qué estoy trabajando**
 
 - 🔭 **Actualmente desarrollando:** Un sistema integral de gestión para una botica, implementando seguimiento de ventas, control de inventario y dashboards utilizando el stack de Python, Flask y Supabase.
 - ⚙️ **Proyectos y experiencia reciente:** Aplicación de diagnóstico SEO técnico (resolución de problemas con canónicas y sitemaps) y diseño arquitectónico utilizando modelado UML.
 - 🌱 **Formación continua y certificaciones:** Profundizando en algoritmos y estructuras de datos (nivel avanzado), herramientas de IA como Copilot y análisis de datos con Power BI.
 - 💬 **Pregúntame sobre:** Desarrollo de APIs con Flask o Spring Boot, diseño de bases de datos relacionales y optimización lógica.
+
+<br>
 
 ## 📫 **¡Conectemos!**
 
