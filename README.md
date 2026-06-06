@@ -7,10 +7,10 @@ Desarrollador enfocado en crear sistemas eficientes, estructurados y escalables.
 Diseño la lógica central para sistemas administrativos, control de inventarios y dashboards, trabajando con bases de datos relacionales como **PostgreSQL** y **MySQL**, además de plataformas como **Supabase**. Más allá de la escritura de código, aplico buenas prácticas de modelado de software y mantengo un fuerte interés técnico en **diagnóstico SEO** (sitemaps, etiquetas canónicas) para la optimización de proyectos web.
 
 <p align="left">
-  <a href="https://github.com/[TU-USUARIO-DE-GITHUB]">
-    <img src="https://komarev.com/ghpvc/?username=[TU-USUARIO-DE-GITHUB]&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil" />
+  <a href="https://github.com/julio060606">
+    <img src="https://komarev.com/ghpvc/?username=julio060606&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil" />
   </a>
-  <a href="https://github.com/[TU-USUARIO-DE-GITHUB]?tab=followers">
+  <a href="https://github.com/julio060606?tab=followers">
     <img alt="GitHub seguidores" src="https://img.shields.io/github/followers/[TU-USUARIO-DE-GITHUB]?style=flat&logo=github">
   </a>
 </p>
