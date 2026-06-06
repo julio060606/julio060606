@@ -1,51 +1,48 @@
-###  **WELCOME TO MY PROJECTS!** 
+### **WELCOME TO MY GITHUB!** 👋
 
-<h3 align="left">Backend Software Developer</h3>
+<h3 align="left">Backend Developer & Computer Science Student</h3>
 
-Backend engineer with 3+ years of experience building and maintaining production-ready backend services and APIs. I mainly work with Java (Spring Boot) and Python (FastAPI), focusing on clean architecture, performance, and maintainability.
+Backend developer and Computer Science student passionate about building efficient, structured, and scalable systems. My core stack revolves around **Python** and **Flask**, utilizing tools like **Supabase** (PostgreSQL) for robust database management and seamless backend integrations.
 
-I've built cloud-oriented backend systems using asynchronous processing, Docker, and well-structured databases such as PostgreSQL, MySQL, and MongoDB. I have hands-on experience implementing JWT-based authentication and role-based access control for secure APIs.
+I have hands-on experience designing the core logic for administrative systems—such as inventory control, sales, and interactive dashboards—always focusing on clean architecture and performance. Beyond backend development, I have a strong technical interest in **SEO diagnostics** (sitemaps, canonical tags) and web administration.
 
-While backend is my core focus, I've also collaborated with frontend applications using Angular, React, and Next.js, integrating APIs and third-party services to deliver reliable end-to-end solutions.
-
+When I'm not coding backend services or studying formal languages and automata, I channel my creativity into 2D game development, exploring pixel art and mechanics for metroidvania and psychological horror concepts.
 
 <p align="left">
-  <a href="https://github.com/Carlos-Marrugo">
-    <img src="https://komarev.com/ghpvc/?username=Carlos-Marrugo" alt="Visitas al perfil" />
+  <a href="https://github.com/[TU-USUARIO-DE-GITHUB]">
+    <img src="https://komarev.com/ghpvc/?username=[TU-USUARIO-DE-GITHUB]&label=Profile%20views&color=0e75b6&style=flat" alt="Visitas al perfil" />
   </a>
-  <a href="https://github.com/Carlos-Marrugo?tab=followers">
-    <img alt="GitHub seguidores" src="https://img.shields.io/github/followers/Carlos-Marrugo?style=flat&logo=github">
+  <a href="https://github.com/[TU-USUARIO-DE-GITHUB]?tab=followers">
+    <img alt="GitHub seguidores" src="https://img.shields.io/github/followers/[TU-USUARIO-DE-GITHUB]?style=flat&logo=github">
   </a>
 </p>
 
-
-## **Technologies and tools I have worked with**
+## 🛠️ **Technologies and tools I work with**
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL / Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
 </p>
 
+## 🚀 **What I'm up to**
 
-## 📺 Some of my Youtube Channel Videos
+- 🔭 **Currently working on:** A comprehensive pharmacy management backend system featuring sales tracking, inventory control, and reporting dashboards.
+- 🌱 **Currently learning:** Advanced data structures, formal languages, and deterministic finite automata.
+- 🎮 **Side projects:** Designing concepts, pixel art, and core mechanics for a 2D psychological horror / metroidvania game.
+- 💬 **Ask me about:** Python, Flask architecture, technical SEO troubleshooting, or game design!
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Desarrollando una API REST con Spring Boot](https://ytcards.demolab.com/?id=3RKWGMjbJR4&title=Desarrollando+una+API+REST+con+Spring+Boot&lang=es&timestamp=1751899205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1283 "Desarrollando una API REST con Spring Boot")](https://youtu.be/3RKWGMjbJR4?si=yFxKxbmQIieiksdt)
-[![Desarrollo Web con Angular y Spring Boot](https://ytcards.demolab.com/?id=_0lhVKp4VZs&title=Desarrollo+Web+con+Angular+y+Spring+Boot&lang=es&timestamp=1750868400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=851 "Desarrollo Web con Angular y Spring Boot")](https://youtu.be/_0lhVKp4VZs?si=VJ9oJGxN3WJx1d5T)
-[![Microservicios con Spring Cloud](https://ytcards.demolab.com/?id=OmAhz54UuFo&title=Microservicios+con+Spring+Cloud&lang=es&timestamp=1750462931&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=41 "Microservicios con Spring Cloud")](https://youtu.be/OmAhz54UuFo?si=bnradVLPVDjj5BZc)
-[![Autenticación JWT con Spring Security](https://ytcards.demolab.com/?id=UEzArbU7q7o&title=Autenticación+JWT+con+Spring+Security&lang=es&timestamp=1749850211&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=902 "Autenticación JWT con Spring Security")](https://youtu.be/UEzArbU7q7o?si=mi4AoMC_NKEMU3NN)
-[![Desplegando en AWS con Docker](https://ytcards.demolab.com/?id=4Wa743X4MbI&title=Desplegando+en+AWS+con+Docker&lang=es&timestamp=1749744375&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=630 "Desplegando en AWS con Docker")](https://youtu.be/4Wa743X4MbI?si=PXYqbn3zXsmFyYRX)
-[![Patrones de Diseño en Java](https://ytcards.demolab.com/?id=8ZAz7p9DpIU&title=Patrones+de+Diseño+en+Java&lang=es&timestamp=1749052814&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1096 "Patrones de Diseño en Java")](https://youtu.be/8ZAz7p9DpIU?si=Q6BYwQM7g16EdTFc)
-<!-- END YOUTUBE-CARDS -->
+## 📫 **Let's Connect!**
+
+Since I keep a low profile on conventional social media, the absolute best way to reach me is directly via email or LinkedIn:
+
+<p align="left">
+  <a href="mailto:[TU-CORREO@GMAIL.COM]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/[TU-ENLACE-DE-LINKEDIN]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
