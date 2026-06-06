@@ -1,37 +1,44 @@
-### ** HOLA SOY JULIO MINAYA | ¡BIENVENIDO A MI GITHUB!** 👋
+### HOLA SOY JULIO MINAYA | ¡BIENVENIDO A MI GITHUB!👋
 
-<h3 align="left">Desarrollador Backend & Estudiante de Ciencias de la Computación</h3>
+<h3 align="left">Desarrollador & Estudiante de Ingeniería de Software</h3>
 
-Desarrollador enfocado en crear sistemas eficientes, estructurados y escalables. Mi experiencia abarca el desarrollo backend utilizando **Python (Flask)**, **Java (Spring Boot)** y **JavaScript (Node.js)**, complementado con conocimientos en el ecosistema frontend con **Angular**.
+Desarrollador enfocado en crear sistemas eficientes, estructurados y escalables. Cuento con una sólida experiencia en el desarrollo de interfaces dinámicas y optimizadas en el ecosistema frontend utilizando **Angular**, **JavaScript**, **HTML/CSS** y preprocesadores como **Sass/Less**. A nivel backend, construyo arquitecturas robustas y APIs utilizando **Python (Flask)**, **Java (Spring Boot)** y **Node.js**.
 
-Diseño la lógica central para sistemas administrativos, control de inventarios y dashboards, trabajando con bases de datos relacionales como **PostgreSQL** y **MySQL**, además de plataformas como **Supabase**. Más allá de la escritura de código, aplico buenas prácticas de modelado de software y mantengo un fuerte interés técnico en **diagnóstico SEO** (sitemaps, etiquetas canónicas) para la optimización de proyectos web.
+Diseño la lógica central para sistemas administrativos, control de inventarios y dashboards, trabajando con bases de datos relacionales como **PostgreSQL** y **MySQL**, además de plataformas como **Supabase**. Más allá de la escritura de código, aplico buenas prácticas de modelado de software y mantengo un fuerte interés técnico en **diagnóstico SEO** (sitemaps, etiquetas canónicas) para la optimización integral de proyectos web.
 
 <p align="left">
   <a href="https://github.com/julio060606">
     <img src="https://komarev.com/ghpvc/?username=julio060606&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil" />
   </a>
   <a href="https://github.com/julio060606?tab=followers">
-    <img alt="GitHub seguidores" src="https://img.shields.io/github/followers/[TU-USUARIO-DE-GITHUB]?style=flat&logo=github">
+    <img alt="GitHub seguidores" src="https://img.shields.io/github/followers/julio060606?style=flat&logo=github">
   </a>
 </p>
 
 ## 🛠️ **Tecnologías y herramientas con las que trabajo**
 
 <p align="left">
-  <!-- Backend & Lenguajes -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" title="Sass"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="45" title="Less"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-  
-  <!-- Frameworks -->
-  <img src="https://cdn.simpleicons.org/flask/333333" width="45" title="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" title="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" title="Angular"/>
   
+  <br>
+
+  <!-- Backend & Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
+  <img src="https://cdn.simpleicons.org/flask/333333" width="45" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" title="Spring Boot"/>
+  
+  <br>
+
   <!-- Bases de Datos y Herramientas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
-  <!-- Supabase desde SimpleIcons -->
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45" title="Supabase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
