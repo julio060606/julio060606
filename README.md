@@ -26,8 +26,6 @@ Diseño la lógica central para sistemas administrativos, control de inventarios
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" title="Angular"/>
   
-  <br>
-
   <!-- Backend & Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
@@ -35,8 +33,6 @@ Diseño la lógica central para sistemas administrativos, control de inventarios
   <img src="https://cdn.simpleicons.org/flask/333333" width="45" title="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" title="Spring Boot"/>
   
-  <br>
-
   <!-- Bases de Datos y Herramientas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45" title="Supabase"/>
