@@ -1,4 +1,4 @@
-### ** HOLA SOU JULIO MINAYA | ¡BIENVENIDO A MI GITHUB!** 👋
+### ** HOLA SOY JULIO MINAYA | ¡BIENVENIDO A MI GITHUB!** 👋
 
 <h3 align="left">Desarrollador Backend & Estudiante de Ciencias de la Computación</h3>
 
