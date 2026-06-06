@@ -22,16 +22,22 @@ Diseño la lógica central para sistemas administrativos, control de inventarios
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-  <br>
+  
   <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" title="Flask" style="filter: invert(1);/>
+  <!-- Flask adaptativo: Blanco en modo oscuro, negro en modo claro -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/flask/ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" title="Flask"/>
+  </picture>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" title="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" title="Angular"/>
-  <br>
+  
   <!-- Bases de Datos y Herramientas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2" width="45" title="Supabase"/>
+  <!-- Supabase desde SimpleIcons -->
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="45" title="Supabase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
 </p>
