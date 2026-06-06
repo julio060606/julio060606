@@ -15,7 +15,8 @@ Diseño la lógica central para sistemas administrativos, control de inventarios
   </a>
 </p>
 
-## 🛠️ **Tecnologías y herramientas con las que trabajo**
+<br>
+## 🛠️ Tecnologías y herramientas con las que trabajo
 
 <p align="left">
   <!-- Frontend -->
@@ -40,14 +41,16 @@ Diseño la lógica central para sistemas administrativos, control de inventarios
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
 </p>
 
-## 🚀 **Mi experiencia y en qué estoy trabajando**
+<br>
+## 🚀 Mi experiencia y en qué estoy trabajando
 
 - 🔭 **Actualmente desarrollando:** Un sistema integral de gestión para una botica, implementando seguimiento de ventas, control de inventario y dashboards utilizando el stack de Python, Flask y Supabase.
 - ⚙️ **Proyectos y experiencia reciente:** Aplicación de diagnóstico SEO técnico (resolución de problemas con canónicas y sitemaps) y diseño arquitectónico utilizando modelado UML.
 - 🌱 **Formación continua y certificaciones:** Profundizando en algoritmos y estructuras de datos (nivel avanzado), herramientas de IA como Copilot y análisis de datos con Power BI.
 - 💬 **Pregúntame sobre:** Desarrollo de APIs con Flask o Spring Boot, diseño de bases de datos relacionales y optimización lógica.
 
-## 📫 **¡Conectemos!**
+<br>
+## 📫 ¡Conectemos!
 
 Puedes ver más detalles sobre mi trayectoria o contactarme directamente a través de los siguientes medios:
 
