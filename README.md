@@ -24,8 +24,7 @@ Diseño la lógica central para sistemas administrativos, control de inventarios
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
   
   <!-- Frameworks -->
-  <!-- Flask adaptativo: Blanco en modo oscuro, negro en modo claro -->
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask" />
+  <img src="https://cdn.simpleicons.org/flask/333333" width="45" title="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" title="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" title="Angular"/>
